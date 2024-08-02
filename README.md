@@ -1,6 +1,6 @@
 # ABGA Software and Systems OCR Technology
 
-### `Some cards you can use for Scans`
+### `Some cards you can use to scan:`
 
 ![Example Image card 1](public/assets/images/card-1.jpg)
 
