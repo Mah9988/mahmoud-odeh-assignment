@@ -2,8 +2,8 @@
 
 ### `Some cards you can use for Scans`
 
-![Sample Image](assets/images/card-1.jpg)
+![Example Image card 1](public/assets/images/card-1.jpg)
 
-![Sample Image](assets/images/card-2.jpg)
+![Example Image card 2](public/assets/images/card-2.jpg)
 
-![Sample Image](assets/images/card-3.webp)
+![Example Image card 3](public/assets/images/card-3.webp)
